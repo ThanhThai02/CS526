@@ -27,7 +27,7 @@
    Giới thiệu nhóm
 </h2>
 
-- *Số thứ tự nhóm:* 5
+- *Số thành viên:* 4
 - *Thông tin thành viên:* 
 
 <table align="center">
