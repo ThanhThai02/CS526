@@ -44,12 +44,12 @@
       <tr>
        <td>Nguyễn Thành Phong</td>
        <td>20520689</td>
-       <td></td>
+       <td>https://github.com/thanhphong1109</td>
       </tr>
       <tr>
        <td>Đoàn Tấn Phát</td>
        <td>20520269</td>
-       <td></td>
+       <td>https://github.com/DoanTanPhat</td>
       </tr>
       <tr>
        <td>Trần Tấn Lộc</td>
