@@ -21,7 +21,7 @@
   Chủ đề báo cáo 
 </h2>
 
-- *Tên chủ đề:* 
+- *Tên chủ đề: Calculator* 
 
 <h2>
    Giới thiệu nhóm
